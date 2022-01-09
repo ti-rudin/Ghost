@@ -96,7 +96,6 @@ projectFilesBackup
 .dist
 .tmp
 
-
 !/content/themes/casper
 !/README.md
 !/content/**/README.md
