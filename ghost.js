@@ -3,7 +3,6 @@
  *
  * If we want to add alternative commands, flags, or modify environment vars, it should all go here.
  * Important: This file should not contain any requires, unless we decide to add pretty-cli/commander type tools
- *
  **/
 
 // Don't allow NODE_ENV to be null
