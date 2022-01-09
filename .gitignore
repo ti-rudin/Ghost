@@ -88,13 +88,6 @@ projectFilesBackup
 # TernJS
 .tern-project
 
-# Ghost DB file
-*.db
-*.db-journal
-
-.build
-.dist
-.tmp
 
 !/content/themes/casper
 !/README.md
