@@ -1,6 +1,6 @@
 {
   "enableDeveloperExperiments": true,
   "server": {
-    "host": "geninpro.ru"
+    "host": "0.0.0.0"
   }
 }
